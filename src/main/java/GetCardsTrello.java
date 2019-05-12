@@ -13,8 +13,8 @@ public class GetCardsTrello{
     public static void main(String[] args) throws IOException {
 
         String board = "4d5ea62fd76aa1136000000c";
-        String Api_key = "4b0c70a39d33bb30c8747efbd95c6e08";
-        String Token_key = "c56d90658d3f9735fb5f697508404584a5a60380bd42f585ae03f9eb3ca64988";
+        String Api_key = "";
+        String Token_key = "";
 
         OkHttpClient client = new OkHttpClient();
 
